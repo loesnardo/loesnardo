@@ -32,8 +32,6 @@ Atualmente, estou aprofundando meus conhecimentos em blockchain e Web3, atraído
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 
 
-
-https://img.shields.io/badge/solidity.svg?logo=solidityloesnardo=white
 ### Frameworks e Bibliotecas 🧪
 
 ### Bancos de Dados e Hospedagem em Nuvem ☁️
