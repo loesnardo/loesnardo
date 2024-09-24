@@ -3,7 +3,7 @@
 **Alquimista Tecnológico (Desenvolvedor)**
 
 Sou um desenvolvedor full-stack movido pela curiosidade em entender o funcionamento das tecnologias e pela paixão pela estética e design. Minha jornada é guiada pela busca de como a apresentação visual pode criar emoções e experiências únicas.
-Minha paixão pelo mundo digital vai além do código; estou constantemente explorando como a forma e a aparência das coisas podem influenciar as sensações e percepções dos usuários. Com um olhar atento ao detalhe, acredito que o design não é apenas sobre beleza, mas sobre como ele pode transformar a experiência e engajar o público de forma significativa.
+Minha paixão pelo mundo digital vai além do código estou constantemente explorando como a forma e a aparência das coisas podem influenciar as sensações e percepções dos usuários. Com um olhar atento ao detalhe, acredito que o design não é apenas sobre beleza, mas sobre como ele pode transformar a experiência e engajar o público de forma significativa.
 Atualmente, estou aprofundando meus conhecimentos em blockchain e Web3, atraído pela inovação e descentralização que essas tecnologias trazem para o futuro.
 
 ---
@@ -58,6 +58,19 @@ Atualmente, estou aprofundando meus conhecimentos em blockchain e Web3, atraído
 <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 
-
 ### Softwares e Ferramentas ⚙️
+
+<a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+
+---
+
+### Github Status 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Loesnardo Github Stats" src="https://loesnardo-github-readme-stats.vercel.app/api/?username=Loesnardo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Loesnardo's Top Languages" src="https://loesnardo-github-readme-stats.vercel.app/api/top-langs/?username=Loesnardo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
 
